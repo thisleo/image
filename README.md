@@ -1,2 +1,2 @@
-# image
+# Images
 blog image bed
